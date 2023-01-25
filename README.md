@@ -1,1 +1,11 @@
-# MechaCar_Statistical_Analysis-
+# MechaCar Statistical Analysis
+
+## Overview of Project
+### Purpose
+
+### Resources
+
+#### Data
+
+#### Software
+
