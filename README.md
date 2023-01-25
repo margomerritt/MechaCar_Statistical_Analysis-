@@ -3,9 +3,9 @@
 ## Overview of Project
 ### Purpose
 
-### Resources
+## Resources
 
-#### Data
+### Data
 
-#### Software
+### Software
 
