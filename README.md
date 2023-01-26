@@ -31,6 +31,16 @@ From our statistic summary we see that vehicle length and ground clearance provi
 
 ## Summary Statistics on Suspension Coils
 
+Total Summary Dataframe:
+
+![total summary deliverable 2](https://user-images.githubusercontent.com/111299372/214951427-f44bc030-c7cc-4701-b1da-df2c24853bba.png)
+
+Lot Summary Dataframe:
+
+![lot_summary deliverable 2](https://user-images.githubusercontent.com/111299372/214951499-90ec640d-85fc-494c-a7b9-c5a170b18d22.png)
+
+
+
 ## T-Tests on Suspension Coils
 
 ## Study Design: MechaCar vs Competition
