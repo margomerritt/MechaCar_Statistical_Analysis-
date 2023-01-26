@@ -5,7 +5,7 @@
 
 ## Resources
 
-### Data
+### Datasource
 * MechaCar_mpg.csv
 * Suspension_Coil.csv
 
