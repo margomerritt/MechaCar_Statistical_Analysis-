@@ -3,6 +3,8 @@
 ## Overview of Project
 ### Purpose
 
+Analyzes a series of datasets from the automotive industry using statistics and hypothesis testing. Analysis includes visualizations, statistical tests, and interpretation of the results. All of the statistical analysis and visualizations were written in the R programming language. 
+
 ## Resources
 
 ### Datasource
