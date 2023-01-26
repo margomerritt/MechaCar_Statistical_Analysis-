@@ -10,7 +10,8 @@
 * Suspension_Coil.csv
 
 ### Software
-
+* R version 4.2.2
+* R Studio 
 ## Linear Regression to Predict MPG
 
 Linear Regression Model:
