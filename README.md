@@ -23,6 +23,10 @@ After performing a linear regression on the MechaCar_MPG dataset we were able to
 
 Since the p-value = 5.35e-11 < 0.05 = alpha we reject the null hypothesis. Thus our slope of our linear model is not zero (m ≠ 0). 
 
+The linear model used in this regression is a multiple linear regression. Which is a statistical model that extends the scope and flexibility of a simple linear regression model. 
+In our analysis we found our R-squared value to be 0.7149. Thus approximately 71% of our predictions of mpg of our MechaCar prototypes will be correct. This makes this linear model relatively effective in our statistical analysis. 
+
+
 ## Summary Statistics on Suspension Coils
 
 ## T-Tests on Suspension Coils
