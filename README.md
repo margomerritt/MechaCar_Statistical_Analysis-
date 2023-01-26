@@ -6,6 +6,8 @@
 ## Resources
 
 ### Data
+* MechaCar_mpg.csv
+* Suspension_Coil.csv
 
 ### Software
 
