@@ -9,13 +9,13 @@ Analyzes a series of datasets from the automotive industry using statistics and 
 * Runs t-tests to determine if the manufacturing lots are statistically different from the mean population.
 * Designs a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
-## Resources
+### Resources
 
-### Datasource
+#### Datasource
 * MechaCar_mpg.csv
 * Suspension_Coil.csv
 
-### Software
+#### Software
 * R version 4.2.2
 * R Studio 
 ## Linear Regression to Predict MPG
