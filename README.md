@@ -76,23 +76,31 @@ A series of T-tests were performed in R to determine if all manufacturing lots a
 Null Hypothesis: true mean = 1500
 Alternative Hypothesis: true mean is not equal to 1500
 
+
+
 One sample t-test across all manufacturing lots results:
-
 p-value = 0.06 > 0.05 = alpha
-
 Thus we fail to reject the null hypothesis.
+
+
 
 Lot 1 t-test results:
 p-value = 1 > 0.05 = alpha
 Thus we fail to reject the null hypothesis. 
 
+
+
 Lot 2 t-test results:
 p-value = 0.6072 > 0.05 = alpha
 Thus we fail to reject the null hypothesis.
 
+
+
 Lot 3 t-test results: 
 p-value = 0.0417 < 0.05 = alpha
 Thus we reject the null hypothesis. 
+
+
 
 ## Study Design: MechaCar vs Competition
 
