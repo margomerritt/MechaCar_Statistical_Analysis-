@@ -51,25 +51,26 @@ From our statistic summary we see that vehicle length and ground clearance provi
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. From the Total Summary Dataframe we see that the PSI variance is 62.2936. Thus, the current manufacturing data meets the design specification for all manufacturing lots in total. However, not all of the individual lots meet these criteria. From the Lot Summary Dataframe we see that Lot1 and Lot2 meet the design specification with variances of 0.9796 and 7.4694, respectively. Lot3 has a PSI variance of 170.2862. Since Lot3 has a variance that exceeds 100 PSI this lot does not meet the design specification. 
 
 
-## T-Tests on Suspension Coils
+## t-tests on Suspension Coils
 
 A series of T-tests were performed in R to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. 
 
-### One sample T-test across all manufacturing lots:
+### One sample t-test across all manufacturing lots:
 
 ![One sample t-test](https://user-images.githubusercontent.com/111299372/215157636-079953b5-d8eb-43d0-a2bd-117ecb5e573e.png)
 
-### Lot 1 T-test:
+### Lot 1 t-test:
 
 ![lot 1 t-test](https://user-images.githubusercontent.com/111299372/215161452-a0231ead-d616-493e-9643-9c8e734edb79.png)
 
-### Lot 2 T-test:
+### Lot 2 t-test:
 
 ![lot 2 t-test](https://user-images.githubusercontent.com/111299372/215161472-2d1e1931-6a83-4aba-adcd-fec9f65fbff1.png)
 
-### Lot 3 T-test:
+### Lot 3 t-test:
 
 ![lot 3 t-test](https://user-images.githubusercontent.com/111299372/215161493-35ee269a-52a8-454f-9a73-1e4ae1560735.png)
 
+### Intepretation of t-test results:
 
 ## Study Design: MechaCar vs Competition
