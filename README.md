@@ -20,11 +20,11 @@ Analyzes a series of datasets from the automotive industry using statistics and 
 * R Studio 
 ## Linear Regression to Predict MPG
 
-Linear Regression Model:
+### Linear Regression Model:
 
 ![linear regression deliverable 1](https://user-images.githubusercontent.com/111299372/214925601-6bb42c22-d174-4f73-8d6c-28ee143122fc.png)
 
-Summary Statistics:
+### Summary Statistics:
 
 ![summary statistics deliverable 1](https://user-images.githubusercontent.com/111299372/214925619-12ca7603-96eb-45c1-ba64-50ee43e7d7e8.png)
 
@@ -40,11 +40,11 @@ From our statistic summary we see that vehicle length and ground clearance provi
 
 ## Summary Statistics on Suspension Coils
 
-Total Summary Dataframe:
+### Total Summary Dataframe:
 
 ![total summary deliverable 2](https://user-images.githubusercontent.com/111299372/214951427-f44bc030-c7cc-4701-b1da-df2c24853bba.png)
 
-Lot Summary Dataframe:
+### Lot Summary Dataframe:
 
 ![lot_summary deliverable 2](https://user-images.githubusercontent.com/111299372/214951499-90ec640d-85fc-494c-a7b9-c5a170b18d22.png)
 
@@ -59,15 +59,15 @@ A series of T-tests were performed in R to determine if all manufacturing lots a
 
 ![One sample t-test](https://user-images.githubusercontent.com/111299372/215157636-079953b5-d8eb-43d0-a2bd-117ecb5e573e.png)
 
-Lot 1 T-test:
+### Lot 1 T-test:
 
 ![lot 1 t-test](https://user-images.githubusercontent.com/111299372/215161452-a0231ead-d616-493e-9643-9c8e734edb79.png)
 
-Lot 2 T-test:
+### Lot 2 T-test:
 
 ![lot 2 t-test](https://user-images.githubusercontent.com/111299372/215161472-2d1e1931-6a83-4aba-adcd-fec9f65fbff1.png)
 
-Lot 3 T-test:
+### Lot 3 T-test:
 
 ![lot 3 t-test](https://user-images.githubusercontent.com/111299372/215161493-35ee269a-52a8-454f-9a73-1e4ae1560735.png)
 
