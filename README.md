@@ -57,6 +57,17 @@ One sample T-test:
 
 ![One sample t-test](https://user-images.githubusercontent.com/111299372/215157636-079953b5-d8eb-43d0-a2bd-117ecb5e573e.png)
 
+Lot 1 T-test:
+
+![lot 1 t-test](https://user-images.githubusercontent.com/111299372/215161452-a0231ead-d616-493e-9643-9c8e734edb79.png)
+
+Lot 2 T-test:
+
+![lot 2 t-test](https://user-images.githubusercontent.com/111299372/215161472-2d1e1931-6a83-4aba-adcd-fec9f65fbff1.png)
+
+Lot 3 T-test:
+
+![lot 3 t-test](https://user-images.githubusercontent.com/111299372/215161493-35ee269a-52a8-454f-9a73-1e4ae1560735.png)
 
 
 ## Study Design: MechaCar vs Competition
