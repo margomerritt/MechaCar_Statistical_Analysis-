@@ -3,7 +3,11 @@
 ## Overview of Project
 ### Purpose
 
-Analyzes a series of datasets from the automotive industry using statistics and hypothesis testing. Analysis includes visualizations, statistical tests, and interpretation of the results. All of the statistical analysis and visualizations were written in the R programming language. 
+Analyzes a series of datasets from the automotive industry using statistics and hypothesis testing. Analysis includes visualizations, statistical tests, and interpretation of the results. All of the statistical analysis and visualizations were written in the R programming language. This project:
+* Performs multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
+* Collects summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
+* Runs t-tests to determine if the manufacturing lots are statistically different from the mean population.
+* Designs a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
 ## Resources
 
