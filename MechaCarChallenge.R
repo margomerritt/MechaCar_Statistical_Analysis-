@@ -27,4 +27,8 @@ lot_summary <- suspension_coil %>% group_by(Manufacturing_Lot)  %>% summarize(Me
                                                                               SD=sd(PSI),
                                                                               .groups = 'keep')
 
+# Deliverable 3 code - T-tests on Suspension Coils
+
+t.test(suspension_coil$PSI,mu=1500)
+
 
