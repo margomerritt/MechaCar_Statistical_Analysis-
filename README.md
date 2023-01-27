@@ -77,7 +77,9 @@ Null Hypothesis: true mean = 1500
 Alternative Hypothesis: true mean is not equal to 1500
 
 One sample t-test across all manufacturing lots results:
+
 p-value = 0.06 > 0.05 = alpha
+
 Thus we fail to reject the null hypothesis.
 
 Lot 1 t-test results:
