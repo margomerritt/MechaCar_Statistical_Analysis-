@@ -53,7 +53,9 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## T-Tests on Suspension Coils
 
-One sample T-test:
+A series of T-tests were performed in R to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. 
+
+### One sample T-test across all manufacturing lots:
 
 ![One sample t-test](https://user-images.githubusercontent.com/111299372/215157636-079953b5-d8eb-43d0-a2bd-117ecb5e573e.png)
 
