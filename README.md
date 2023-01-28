@@ -132,3 +132,10 @@ Null Hypothesis: There is no difference in the crash rating between MechaCar and
 Alternative Hypothesis: There is a difference in the crash rating between the two competitors. 
 
 ### Data to Run Test
+
+The NHTSA website rates vehicle safety out of five stars for overall safety. The overall vehicle safety is broken down into frontal crash, side crash, and rollover crash ratings. Testing for these crash ratings are broken down further and the data for the testing is included in technical reports. 
+
+As an example we will use the 2020 Toyota RAV4 SUV FWD as our competitor. The RAV4 safety ratings are found here: https://www.nhtsa.gov/vehicle/2020/TOYOTA/RAV4/SUV/AWD. The technical report for the RAV4 that is listed on the NHTSA website is here: https://nrd-static.nhtsa.dot.gov/reports/vehdb/v10000/v10700/v10704R001.pdf.
+
+
+
