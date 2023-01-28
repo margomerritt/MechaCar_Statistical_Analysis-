@@ -109,4 +109,18 @@ Thus we reject the null hypothesis.
 
 ## Study Design: MechaCar vs Competition
 
+Additional statistical studies can be performed to quantify how the MechaCar performs against the competition. Several different metrics that would be helpful to test and show to the consumer are: vehicle cost, city fuel efficiency, highway fuel efficiency, horse power, maintenance cost, or safety rating. 
+
+Since we want to run a test to see if there is a statistical difference between the distribution means from two samples we will use a two-sample t-test. The independent data type for the two-sample t-test is dichotomous (sample A vs. sample B). Thus our sample A and sample B will be the MechaCar data and the competitor car data, respectively. 
+
+A two-sample t-test is used to test the following hypotheses:
+
+Null Hypothesis: There is no statistical difference between the two observed sample means.
+
+Alternative Hypothesis: There is a statistical difference between the two observed means.
+
+
+A two-sample t-test can be utilized to run a statistical test on any of the metrics mentioned above. In this analysis we are going to focus on just one metric to test: crash safety rating. 
+![image](https://user-images.githubusercontent.com/111299372/215284166-bddd00d8-352e-4ade-9400-689ba07b46fd.png)
+
 
