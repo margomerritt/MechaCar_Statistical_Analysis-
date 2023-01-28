@@ -137,5 +137,5 @@ The NHTSA website rates vehicle safety out of five stars for overall safety. The
 
 As an example we will use the 2020 Toyota RAV4 SUV FWD as our competitor. The RAV4 safety ratings are found here: https://www.nhtsa.gov/vehicle/2020/TOYOTA/RAV4/SUV/AWD. The technical report for the RAV4 that is listed on the NHTSA website is here: https://nrd-static.nhtsa.dot.gov/reports/vehdb/v10000/v10700/v10704R001.pdf.
 
-
+These safety ratings and technical reports provide numerous data metrics for us to run our statistical test on. We could use the overall front star rating which is four stars for the RAV4. Or we could use the data from the breakdown of the overall front star rating. Which is front driver side and front passenger side ratings.
 
