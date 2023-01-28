@@ -139,3 +139,5 @@ As an example we will use the 2020 Toyota RAV4 SUV FWD as our competitor. The RA
 
 These safety ratings and technical reports provide numerous data metrics for us to run our statistical test on. We could use the overall front star rating which is four stars for the RAV4. Or we could use the data from the breakdown of the overall front star rating. Which is front driver side and front passenger side ratings.
 
+We could breakdown the safety rating further and use the measurment descriptions from the technical report. The measurement descriptions are listed on page 3 of the technical report. Measurement descriptions are: head injury criteria, maximum chest compression, neck tension, neck compresion, left femur force, and right femur force. 
+
