@@ -121,6 +121,5 @@ Alternative Hypothesis: There is a statistical difference between the two observ
 
 
 A two-sample t-test can be utilized to run a statistical test on any of the metrics mentioned above. In this analysis we are going to focus on just one metric to test: crash safety rating. 
-![image](https://user-images.githubusercontent.com/111299372/215284166-bddd00d8-352e-4ade-9400-689ba07b46fd.png)
 
 
