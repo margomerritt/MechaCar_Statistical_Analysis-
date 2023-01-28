@@ -125,11 +125,11 @@ Alternative Hypothesis: There is a statistical difference between the two observ
 
 A two-sample t-test can be utilized to run a statistical test on any of the metrics mentioned above. In this analysis we are going to focus on just one metric to test: crash safety rating. Data for car safety ratings is publicly available on websites such as https://www.nhtsa.gov/ratings. This is a government website ran by the United States Department of Transportation. To find vehicle safety ratings we search the website by year, make, and model of the vehicle. We will gather our competitor data from this website. We will have to run vehicle safety tests in a lab on our MechaCar in order to gather data on its safety rating. 
 
-Since we are running a two-way t-test our hypotheses for our safety ratings are:
+#### Since we are running a two-way t-test our hypotheses for our safety ratings are:
 
 Null Hypothesis: There is no difference in the crash rating between MechaCar and its competitor.
 
 Alternative Hypothesis: There is a difference in the crash rating between the two competitors. 
-![image](https://user-images.githubusercontent.com/111299372/215284572-5110390c-08c6-40c5-85d3-a217c59f95b4.png)
+
 
 
