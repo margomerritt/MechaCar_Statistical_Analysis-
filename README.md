@@ -120,6 +120,6 @@ Null Hypothesis: There is no statistical difference between the two observed sam
 Alternative Hypothesis: There is a statistical difference between the two observed means.
 
 
-A two-sample t-test can be utilized to run a statistical test on any of the metrics mentioned above. In this analysis we are going to focus on just one metric to test: crash safety rating. 
+A two-sample t-test can be utilized to run a statistical test on any of the metrics mentioned above. In this analysis we are going to focus on just one metric to test: crash safety rating. Data for car safety ratings is publicily available on websites such as https://www.nhtsa.gov/ratings. This is a government website ran by the United States Department of Transportation. To find vehicle safety ratings we search the website by year, make, and model of the vehicle. 
 
 
