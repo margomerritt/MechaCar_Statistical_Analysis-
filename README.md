@@ -111,15 +111,24 @@ Thus we reject the null hypothesis.
 
 Additional statistical studies can be performed to quantify how the MechaCar performs against the competition. Several different metrics that would be helpful to test and show to the consumer are: vehicle cost, city fuel efficiency, highway fuel efficiency, horse power, maintenance cost, or safety rating. 
 
+### Statistical Test to Run
+
 Since we want to run a test to see if there is a statistical difference between the distribution means from two samples we will use a two-sample t-test. The independent data type for the two-sample t-test is dichotomous (sample A vs. sample B). Thus our sample A and sample B will be the MechaCar data and the competitor car data, respectively. 
 
-A two-sample t-test is used to test the following hypotheses:
+### A two-sample t-test is used to test the following hypotheses:
 
 Null Hypothesis: There is no statistical difference between the two observed sample means.
 
 Alternative Hypothesis: There is a statistical difference between the two observed means.
 
 
-A two-sample t-test can be utilized to run a statistical test on any of the metrics mentioned above. In this analysis we are going to focus on just one metric to test: crash safety rating. Data for car safety ratings is publicily available on websites such as https://www.nhtsa.gov/ratings. This is a government website ran by the United States Department of Transportation. To find vehicle safety ratings we search the website by year, make, and model of the vehicle. 
+A two-sample t-test can be utilized to run a statistical test on any of the metrics mentioned above. In this analysis we are going to focus on just one metric to test: crash safety rating. Data for car safety ratings is publicly available on websites such as https://www.nhtsa.gov/ratings. This is a government website ran by the United States Department of Transportation. To find vehicle safety ratings we search the website by year, make, and model of the vehicle. We will gather our competitor data from this website. We will have to run vehicle safety tests in a lab on our MechaCar in order to gather data on its safety rating. 
+
+Since we are running a two-way t-test our hypotheses for our safety ratings are:
+
+Null Hypothesis: There is no difference in the crash rating between MechaCar and its competitor.
+
+Alternative Hypothesis: There is a difference in the crash rating between the two competitors. 
+![image](https://user-images.githubusercontent.com/111299372/215284572-5110390c-08c6-40c5-85d3-a217c59f95b4.png)
 
 
