@@ -113,9 +113,7 @@ Additional statistical studies can be performed to quantify how the MechaCar per
 
 ### Statistical Test to Run
 
-Since we want to run a test to see if there is a statistical difference between the distribution means from two samples we will use a two-sample t-test. The independent data type for the two-sample t-test is dichotomous (sample A vs. sample B). Thus our sample A and sample B will be the MechaCar data and the competitor car data, respectively. 
-
-### A two-sample t-test is used to test the following hypotheses:
+Since we want to run a test to see if there is a statistical difference between the distribution means from two samples we will use a two-sample t-test. The independent data type for the two-sample t-test is dichotomous (sample A vs. sample B). Thus our sample A and sample B will be the MechaCar data and the competitor car data, respectively. A two-sample t-test is used to test the following hypotheses:
 
 Null Hypothesis: There is no statistical difference between the two observed sample means.
 
@@ -139,5 +137,5 @@ As an example we will use the 2020 Toyota RAV4 SUV FWD as our competitor. The RA
 
 These safety ratings and technical reports provide numerous data metrics for us to run our statistical test on. We could use the overall front star rating which is four stars for the RAV4. Or we could use the data from the breakdown of the overall front star rating. Which is front driver side (4 stars) and front passenger side (5 stars) ratings.
 
-We could breakdown the safety rating further and use the measurement descriptions from the technical report. The measurement descriptions are listed on page 3 of the technical report. Measurement descriptions are: head injury criteria, maximum chest compression, neck tension, neck compresion, left femur force, and right femur force. 
+We could breakdown the safety rating further and use the measurement descriptions from the technical report. The measurement descriptions are listed on page 3 of the technical report. Measurement descriptions are: head injury criteria, maximum chest compression, neck tension, neck compresion, left femur force, and right femur force. Any of the numerical data mentioned above can be used as our data input for our two-sample t-tes to compare the MechaCar safety rating to its competitors. 
 
