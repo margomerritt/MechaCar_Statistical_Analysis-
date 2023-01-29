@@ -18,6 +18,11 @@ Analyzes a series of datasets from the automotive industry using statistics and 
 #### Software
 * R version 4.2.2
 * R Studio 
+
+
+<img align="right" width="100" height="100" ![Insights_ _Beroe_Live_800x450px4(15)](https://user-images.githubusercontent.com/111299372/215351016-8acff68a-1645-4f72-b696-2cd8c956099d.jpg)>
+
+
 ## Linear Regression to Predict MPG
 
 ### Linear Regression Model:
